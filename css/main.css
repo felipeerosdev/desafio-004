@@ -1,0 +1,80 @@
+body{
+  font-family: "archivo",sans-serif;
+}
+.wrapper{
+  padding: 0 24px;
+  width: 100%;
+  max-width: 400px;
+}
+.img__main{
+  display: none;
+}
+.inputWrapper{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100dvh;
+}
+.inputs__title{
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 8px;
+}
+.inputs__subtitle{
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 40px;
+}
+.input_label{
+  font-size: 14px;
+  margin-bottom: 12px;
+}
+.input__item{
+  display: block;
+  padding: 16px;
+  background-color: var(--grey-20);
+  border: 1px solid var(--grey-10);
+  border-radius: 4px;
+  color: var(--dark-20);
+  margin-bottom: 32px;
+}
+.checkbox{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 56px;
+}
+.checkbox-label{
+  font-size: 14px;
+}
+.span__item{
+  color: var(--brand-color);
+  font-size: 14px;
+}
+.btn{
+  padding: 14px 32px;
+  font-size: 16px;
+  color: var(--white);
+  background-color: var(--brand-color);
+  border: none;
+  border-radius: 4px;
+  margin-bottom: 24px;
+  /* display: block; */
+  font-weight: 600;
+}
+.btn--color{
+  background-color: var(--dark-10);
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 64px;
+}
+.img__btn{
+  width: 16px;
+  height: 16px;
+}
+.main-paragraph{
+  text-align: center;
+}
+.span__item--size{
+  font-size: 16px;
+}
