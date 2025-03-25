@@ -5,6 +5,7 @@ body{
   padding: 0 24px;
   width: 100%;
   max-width: 400px;
+  margin: 0 auto;
 }
 .img__main{
   display: none;
@@ -77,4 +78,29 @@ body{
 }
 .span__item--size{
   font-size: 16px;
+}
+@media(min-width:48rem){/*768px*/
+  .inputs__title{
+    font-size: 20px;
+  }
+  .inputs__subtitle{
+    font-size: 32px;
+  }
+  .input_label{
+    font-size: 18px;
+  }
+  .input__item{
+    font-size: 16px;
+  }
+  .checkbox-label{
+    font-size: 16px;
+  }
+  .span__item{
+    font-size: 16px;
+  }
+  .btn{
+    padding: 16px 32px;
+  }
+  .btn--color{
+  }
 }
