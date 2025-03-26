@@ -8,11 +8,11 @@ Este layout foi projetado no [Figma](https://www.figma.com/design/Yb9IBH56g7T1hd
 ## Layout
 <div style="display: flex;gap:10px;flex-wrap: wrap;">
 <a href="assets/img/page-login-mobile.png" target="_blank">
-  <img src="assets/img/page-login-mobile.png" alt="imagem-mobile" style="max-width 300px; height: auto;">
+  <img src="assets/img/page-login-mobile.png" alt="imagem-mobile" style="max-width 250px; height: auto;">
 </a>
 
 <a href="assets/img/page-login-tablet.png" target="_blank">
-  <img src="assets/img/page-login-tablet.png" alt="imagem-tablet" style="max-width: 300px; height: auto;">
+  <img src="assets/img/page-login-tablet.png" alt="imagem-tablet" style="max-width: 350px; height: auto;">
 </a>
 
 <a href="assets/img/login-page-desktop.png" target="_blank">
