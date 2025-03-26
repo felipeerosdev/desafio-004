@@ -1,63 +1,45 @@
-# Desafio 001
+# Desafio 004 (CodeLab - @iurecode)
 
 ## Descrição
-Este repositório contém a solução para o **Desafio 001**. O objetivo do desafio é [breve descrição do objetivo do desafio].
+Este repositório contém a solução para o **Desafio 004**. O objetivo do desafio é criar uma pagina de login.
+
+Este layout foi projetado no [Figma](https://www.figma.com/design/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---CodeLab?node-id=257087-949&t=6lEjXa6giDpjx8Tp-0).
 
 ## Layout
-<div style=>
+<div style="display: flex;gap:10px;flex-wrap: wrap;">
 <a href="assets/img/page-login-mobile.png" target="_blank">
-  <img src="assets/img/page-login-mobile.png" alt="imagem-mobile" style="width: 250px; height: auto;">
+  <img src="assets/img/page-login-mobile.png" alt="imagem-mobile" style="max-width: 350px; height: 200px;">
 </a>
 
 <a href="assets/img/page-login-tablet.png" target="_blank">
-  <img src="assets/img/page-login-tablet.png" alt="imagem-tablet" style="width: 300px; height: auto;">
+  <img src="assets/img/page-login-tablet.png" alt="imagem-tablet" style="max-width: 350px; height: auto;">
 </a>
 
 <a href="assets/img/login-page-desktop.png" target="_blank">
-  <img src="assets/img/login-page-desktop.png" alt="imagem-desktop" style="width: 400px; height: auto;">
+  <img src="assets/img/login-page-desktop.png" alt="imagem-desktop" style="max-width: 450px; height: 400p;">
 </a>
 </div>
 ## Tecnologias Utilizadas
-- [Linguagem ou framework principal]
-- [Outras ferramentas ou bibliotecas relevantes]
+- HTML,CSS.
 
 ## Como Executar
 Siga os passos abaixo para configurar e executar o projeto:
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/felipeerosdev/desafio-001.git
+   git clone https://github.com/felipeerosdev/desafio-004.git
    ```
 2. Acesse o diretório do projeto:
    ```sh
-   cd desafio-001
+   cd desafio-004
    ```
-3. Instale as dependências:
-   ```sh
-   [comando para instalar dependências, ex: npm install, pip install -r requirements.txt]
-   ```
-4. Execute o projeto:
-   ```sh
-   [comando para rodar a aplicação]
-   ```
-
 ## Estrutura do Projeto
 ```
-/desafio-001
-├── src/                # Código-fonte principal
-├── tests/              # Testes automatizados
-├── docs/               # Documentação adicional
-├── .gitignore          # Arquivos ignorados pelo Git
-├── README.md           # Documentação principal
-└── [outros arquivos relevantes]
+/desafio-004
+├── assets/             # Recursos e imagens do projeto
+├── css/                # Arquivos CSS do projeto
+└── index.html/         # Estrutura do projeto
 ```
-
-## Testes
-Para executar os testes automatizados, utilize o seguinte comando:
-```sh
-[comando para rodar os testes]
-```
-
 ## Contribuição
 Se desejar contribuir com este projeto:
 1. Faça um fork do repositório.
