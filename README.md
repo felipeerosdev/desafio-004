@@ -6,15 +6,15 @@ Este repositório contém a solução para o **Desafio 001**. O objetivo do desa
 ## Layout
 
 <a href="assets/img/page-login-mobile.png" target="_blank">
-  <img src="assets/img/page-login-mobile.png" alt="imagem-mobile" style="width: 150px; height: auto;">
+  <img src="assets/img/page-login-mobile.png" alt="imagem-mobile" style="width: 250px; height: auto;">
 </a>
 
 <a href="assets/img/page-login-tablet.png" target="_blank">
-  <img src="assets/img/page-login-tablet.png" alt="imagem-tablet" style="width: 150px; height: auto;">
+  <img src="assets/img/page-login-tablet.png" alt="imagem-tablet" style="width: 250px; height: auto;">
 </a>
 
 <a href="assets/img/login-page-desktop.png" target="_blank">
-  <img src="assets/img/login-page-desktop.png" alt="imagem-desktop" style="width: 150px; height: auto;">
+  <img src="assets/img/login-page-desktop.png" alt="imagem-desktop" style="width: 250px; height: auto;">
 </a>
 
 ## Tecnologias Utilizadas
