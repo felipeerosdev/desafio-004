@@ -10,7 +10,7 @@ Este repositório contém a solução para o **Desafio 001**. O objetivo do desa
 </a>
 
 <a href="assets/img/page-login-tablet.png" target="_blank">
-  <img src="assets/img/page-login-tablet.png" alt="imagem-tablet" style="width: 350px; height: auto;">
+  <img src="assets/img/page-login-tablet.png" alt="imagem-tablet" style="width: 300px; height: auto;">
 </a>
 
 <a href="assets/img/login-page-desktop.png" target="_blank">
