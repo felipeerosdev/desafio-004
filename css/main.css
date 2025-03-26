@@ -151,3 +151,27 @@ body{
     font-size: 20px;
   }
 }
+@media(min-width:64rem){/*1024px*/
+  main{
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: "img input";
+  }
+  .img__main{
+    display: block;
+    width: 500px;
+    height: 420px;
+  }
+  .imagemWrapper{
+    grid: img;
+    background-color: #F3FFF2;
+    height: 100dvh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .inputWrapper{
+    grid-area: input;
+  }
+}
