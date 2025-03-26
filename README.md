@@ -4,9 +4,18 @@
 Este repositório contém a solução para o **Desafio 001**. O objetivo do desafio é [breve descrição do objetivo do desafio].
 
 ## Layout
-![imagem-mobile](assets/img/page-login-mobile.png)
-![imagem-tablet](assets/img/page-login-tablet.png)
-![imagem-desktop](assets/img/login-page-desktop.png)
+
+<a href="assets/img/page-login-mobile.png" target="_blank">
+  <img src="assets/img/page-login-mobile.png" alt="imagem-mobile" style="max-width: 100%; height: auto;">
+</a>
+
+<a href="assets/img/page-login-tablet.png" target="_blank">
+  <img src="assets/img/page-login-tablet.png" alt="imagem-tablet" style="max-width: 100%; height: auto;">
+</a>
+
+<a href="assets/img/login-page-desktop.png" target="_blank">
+  <img src="assets/img/login-page-desktop.png" alt="imagem-desktop" style="max-width: 100%; height: auto;">
+</a>
 
 ## Tecnologias Utilizadas
 - [Linguagem ou framework principal]
