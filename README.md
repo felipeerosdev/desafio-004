@@ -4,9 +4,9 @@
 Este repositório contém a solução para o **Desafio 001**. O objetivo do desafio é [breve descrição do objetivo do desafio].
 
 ## Layout
-
+<div style=>
 <a href="assets/img/page-login-mobile.png" target="_blank">
-  <img src="assets/img/page-login-mobile.png" alt="imagem-mobile" style="width: 300px; height: auto;">
+  <img src="assets/img/page-login-mobile.png" alt="imagem-mobile" style="width: 250px; height: auto;">
 </a>
 
 <a href="assets/img/page-login-tablet.png" target="_blank">
@@ -16,7 +16,7 @@ Este repositório contém a solução para o **Desafio 001**. O objetivo do desa
 <a href="assets/img/login-page-desktop.png" target="_blank">
   <img src="assets/img/login-page-desktop.png" alt="imagem-desktop" style="width: 400px; height: auto;">
 </a>
-
+</div>
 ## Tecnologias Utilizadas
 - [Linguagem ou framework principal]
 - [Outras ferramentas ou bibliotecas relevantes]
