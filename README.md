@@ -8,7 +8,7 @@ Este layout foi projetado no [Figma](https://www.figma.com/design/Yb9IBH56g7T1hd
 ## Layout
 <div style="display: flex;gap:10px;flex-wrap: wrap;">
 <a href="assets/img/page-login-mobile.png" target="_blank">
-  <img src="assets/img/page-login-mobile.png" alt="imagem-mobile" style="max-width: 350px; height: 200px;">
+  <img src="assets/img/page-login-mobile.png" alt="imagem-mobile" style="max-width 450px; height: auto;">
 </a>
 
 <a href="assets/img/page-login-tablet.png" target="_blank">
@@ -16,7 +16,7 @@ Este layout foi projetado no [Figma](https://www.figma.com/design/Yb9IBH56g7T1hd
 </a>
 
 <a href="assets/img/login-page-desktop.png" target="_blank">
-  <img src="assets/img/login-page-desktop.png" alt="imagem-desktop" style="max-width: 450px; height: 400p;">
+  <img src="assets/img/login-page-desktop.png" alt="imagem-desktop" style="max-width: 450px; height: auto;">
 </a>
 </div>
 ## Tecnologias Utilizadas
