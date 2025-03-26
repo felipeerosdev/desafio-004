@@ -14,7 +14,7 @@ Este repositório contém a solução para o **Desafio 001**. O objetivo do desa
 </a>
 
 <a href="assets/img/login-page-desktop.png" target="_blank">
-  <img src="assets/img/login-page-desktop.png" alt="imagem-desktop" style="width: 250px; height: auto;">
+  <img src="assets/img/login-page-desktop.png" alt="imagem-desktop" style="width: 300px; height: 300px;">
 </a>
 
 ## Tecnologias Utilizadas
