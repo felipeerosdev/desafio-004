@@ -6,7 +6,7 @@ Este repositório contém a solução para o **Desafio 001**. O objetivo do desa
 ## Layout
 
 <a href="assets/img/page-login-mobile.png" target="_blank">
-  <img src="assets/img/page-login-mobile.png" alt="imagem-mobile" style="max-width: 100%; height: auto;">
+  <img src="assets/img/page-login-mobile.png" alt="imagem-mobile" style="max-width: 150px; height: auto;">
 </a>
 
 <a href="assets/img/page-login-tablet.png" target="_blank">
