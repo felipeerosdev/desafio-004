@@ -6,7 +6,7 @@ Este repositório contém a solução para o **Desafio 001**. O objetivo do desa
 ## Layout
 ![imagem-mobile](assets/img/page-login-mobile.png)
 ![imagem-tablet](assets/img/page-login-tablet.png)
-![imagem-desktop](assets/img/page-login-desktop.png)
+![imagem-desktop](assets/img/login-page-desktop.png)
 
 ## Tecnologias Utilizadas
 - [Linguagem ou framework principal]
